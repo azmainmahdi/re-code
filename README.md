@@ -1,3 +1,5 @@
+<img src="docs/logo.png" width="80" alt="Re;Code logo">
+
 # Re;Code
 
 Re;Code is a free desktop app for reflexive thematic analysis of interview transcripts. You read, code and build themes in one place, with the audio right beside the text. It runs on Mac and Windows and is still in beta.
