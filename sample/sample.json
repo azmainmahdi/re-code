@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {"name": "A café works as an office they choose", "idea": "People use cafés to get the noise, distance and company of an office without the office."},
+    {"name": "Staying feels like a debt to the café", "idea": "They watch for signs they have stayed too long, and pay it back with purchases, guilt or by leaving."},
+    {"name": "Company without conversation", "idea": "They want other people around, but on terms where nobody has to talk."}
+  ],
+  "codes": [
+    {"pid": "Noor", "quote": "At the café I'm just a laptop.", "code": "The café gives a break from home roles", "theme": "A café works as an office they choose", "note": "Anonymity, not comfort."},
+    {"pid": "Noor", "quote": "It feels like an office I don't pay for.", "code": "The café as a free office", "theme": "A café works as an office they choose"},
+    {"pid": "Noor", "quote": "music with words, no", "code": "Noise has a limit"},
+    {"pid": "Noor", "quote": "We've never spoken. I'd miss him if he stopped coming.", "code": "Strangers become familiar faces", "theme": "Company without conversation"},
+    {"pid": "Noor", "quote": "I feel like I'm taking something from them.", "code": "Leaves when others need the seat", "theme": "Staying feels like a debt to the café", "round": 2},
+    {"pid": "Sam", "quote": "silence makes me check my phone more", "code": "Noise helps them focus", "theme": "A café works as an office they choose"},
+    {"pid": "Sam", "quote": "ranked by how guilty they make me feel", "code": "Feels they owe the café for the seat", "theme": "Staying feels like a debt to the café"},
+    {"pid": "Sam", "quote": "If they clear the table around me, I take the hint and leave.", "code": "Reads staff signals about overstaying", "theme": "Staying feels like a debt to the café"},
+    {"pid": "Sam", "quote": "It's the price of the chair.", "code": "Buys things to pay for the time", "theme": "Staying feels like a debt to the café", "note": "Rent, in their words."},
+    {"pid": "Sam", "quote": "feels like bringing your office into someone's living room", "code": "The café is someone else's space", "round": 2},
+    {"pid": "Priya", "quote": "So the café isn't really my choice. It's where the allowance works.", "code": "The employer picked the café", "note": "Goes against the theme: not chosen.", "round": 2},
+    {"pid": "Priya", "quote": "I miss having a desk that is mine", "code": "Misses a space of their own"},
+    {"pid": "Priya", "quote": "so no one can read my emails", "code": "Guards their screen from strangers"},
+    {"pid": "Priya", "quote": "It's the closest thing I have to a colleague.", "code": "Strangers become familiar faces", "theme": "Company without conversation"},
+    {"pid": "Priya", "quote": "I still feel like a guest who has stayed too long", "code": "Feels they owe the café for the seat", "theme": "Staying feels like a debt to the café"},
+    {"pid": "Tomás", "quote": "We get on better since I started going out.", "code": "The café protects the home", "theme": "A café works as an office they choose"},
+    {"pid": "Tomás", "quote": "I want to be a regular nowhere.", "code": "Avoids being known by staff", "theme": "Company without conversation"},
+    {"pid": "Tomás", "quote": "They're a sign that says don't talk to me.", "code": "Headphones as a do-not-disturb sign", "theme": "Company without conversation"},
+    {"pid": "Tomás", "quote": "It resets the clock.", "code": "Moves cafés to restart the welcome", "theme": "Staying feels like a debt to the café"}
+  ],
+  "diary": [
+    {"pid": "Noor", "text": "I expected plugs and wifi to matter most. Noor talked about being anonymous instead, which I had not planned to ask about."},
+    {"pid": "Priya", "text": "Priya didn't choose the café; their employer did. Check whether 'an office they choose' still holds, or whether choice is the wrong word."},
+    {"pid": "Tomás", "text": "Two people now say a café is pleasant only while nobody knows them. That sits oddly next to Noor missing the man who nods. Maybe being seen is fine, being spoken to is not."}
+  ]
+}
