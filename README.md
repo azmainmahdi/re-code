@@ -4,7 +4,7 @@ A free app for reflexive thematic analysis, for Mac and Windows. Beta.
 
 ![Re;Code](docs/transcript-day.png)
 
-I built it to code the interviews for my own study.
+We built it for our own convenience during a study.
 
 - Import transcripts from Word, text, Markdown, or Zoom, Teams and Otter files.
 - Code in rounds. Codes sit next to their quotes.
