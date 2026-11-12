@@ -1,10 +1,10 @@
 # Re;Code
 
-A free app for reflexive thematic analysis, for Mac and Windows. Beta.
+Re;Code is a free desktop app for reflexive thematic analysis of interview transcripts. You read, code and build themes in one place, with the audio right beside the text. It runs on Mac and Windows and is still in beta.
 
 ![Re;Code](docs/transcript-day.png)
 
-We built it for our own convenience during a study.
+We built it for our own convenience while coding the interviews from a study.
 
 - Import transcripts from Word, text, Markdown, or Zoom, Teams and Otter files.
 - Code in rounds. Codes sit next to their quotes.
